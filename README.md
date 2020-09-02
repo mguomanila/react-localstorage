@@ -1,3 +1,6 @@
+# convert into ECMAScript conform
+import doesn't need a bracket ie. `import mystorage from 'reactjs-localstorage'`
+
 # reactLocalStorage
 Easy use localstorage in Reactjs
 

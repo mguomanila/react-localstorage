@@ -1,4 +1,5 @@
-exports.reactLocalStorage = {
+
+module.exports = {
     set: function(key, value) {
         localStorage[key] = value;
         return localStorage[key];
